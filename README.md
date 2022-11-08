@@ -1,12 +1,14 @@
-<image  src='images0/header.png' width=1300 height=400>
+<image  src='images0/header.png' width=1500 height=450>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimaenzu)](https://github.com/kimaenzu/github-readme-stats)
-[![kimaenzu's github stats](https://github-readme-stats.vercel.app/api?username=kimaenzu)](https://github.com/kimaenzu/shinsangeun)
-  
+ 
 # ✨ ABOUT ME ✨
-----
+---
   Hi, I'm studing Big data analysis Technologies👀
 
+---  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimaenzu)](https://github.com/kimaenzu/github-readme-stats)
+[![kimaenzu's github stats](https://github-readme-stats.vercel.app/api?username=kimaenzu)](https://github.com/kimaenzu/shinsangeun)
+ 
 ![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
 ![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
