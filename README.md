@@ -1,5 +1,8 @@
-<image  src='images0/header.png' width=1100 height=400>
+<image  src='images0/header.png' width=1300 height=400>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimaenzu)](https://github.com/kimaenzu/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimaenzu &layout=compact)](https://github.com/kimaenzu/github-readme-stats)
 ![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
 ![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
