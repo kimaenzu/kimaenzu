@@ -1,4 +1,4 @@
-<image  src='images0/header.png' width=1700 height=400>
+<image  src='images0/header.png' width=1700 height=350>
 
  
 # ✨ ABOUT ME ✨
