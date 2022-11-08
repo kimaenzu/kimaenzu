@@ -1,4 +1,4 @@
-<image  src='images0/laptop.png'>
+<image  src='images0/labtop.png'>
 
 
 
